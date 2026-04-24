@@ -1,0 +1,15 @@
+/* p {
+    color: green;
+    font-size: 50px;
+     font-style:italic ;
+} */
+
+/* styling using clases */
+.external-css {
+    color: green;
+    font-size: 50px;
+     font-style:italic ;
+}
+#external-id{
+    color: gold;
+}
